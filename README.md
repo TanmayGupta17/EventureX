@@ -1,3 +1,4 @@
+#EventureX
 EventureX is a full-stack event and attendee management portal built with Next.js, Prisma, React Hook Form, TanStack Query, and Shadcn/UI. It allows users to create, view, and manage events, as well as register attendees for specific events.
 
 ## Features
